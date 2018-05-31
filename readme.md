@@ -30,14 +30,19 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 | Topic | code |
 | --- | --- |
+| **Array and String** | code |
+| **Linked List** | code |
 | **Binary Search** | code |
+| **Binary Tree** | [code](Learn/Binary-Tree/) |
 | **N-ary Tree** | code |
-| **Binary Tree** | code |
 | **Binary Search Tree** | code |
+| **Trie** | code |
+| **Hash Table** | code |
 
 ### Interview
 | Topic | code |
 | --- | --- |
+| **Coding Interview Strategy** | code |
 | **Top Interview Questions - Easy Collections** | code |
 | **Top Interview Questions - Medium Collections** | code |
 | **Top Interview Questions - Hard Collections** | code |
