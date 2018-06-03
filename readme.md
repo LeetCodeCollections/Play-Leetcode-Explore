@@ -30,7 +30,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 | Topic | code |
 | --- | --- |
-| **Array and String** | code |
+| **Array and String** | [code](Learn/Array-and-String/) |
 | **Linked List** | code |
 | **Binary Search** | code |
 | **Binary Tree** | [code](Learn/Binary-Tree/) |
