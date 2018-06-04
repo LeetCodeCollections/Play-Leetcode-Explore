@@ -10,3 +10,4 @@
 | | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [C++](02-Introduction-to-2D-Array/03-Pascals-Triangle/cpp-0118/) | |
 | [**Introduction to String**](https://leetcode.com/explore/learn/card/array-and-string/203/introduction-to-string/) | [Add Binary](https://leetcode.com/explore/learn/card/array-and-string/203/introduction-to-string/1160/) | [C++](03-Introduction-to-String/01-Add-Binary/cpp-0067/) | |
 | | [Implement strStr()](https://leetcode.com/explore/learn/card/array-and-string/203/introduction-to-string/1161/) | [C++](03-Introduction-to-String/02-Implement-strStr/cpp-0028/)<br/>[缺：字符串匹配高级算法] | |
+| | [Longest Common Prefix](https://leetcode.com/explore/learn/card/array-and-string/203/introduction-to-string/1162/) | [C++](03-Introduction-to-String/03-Longest-Common-Prefix/cpp-0014/) | |
