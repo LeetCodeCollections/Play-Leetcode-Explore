@@ -26,20 +26,26 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 ---
 
-### Learn
+### Learn Data Structures
 
 | Topic | code |
 | --- | :---: |
 | **Array and String** | [code](Learn/Array-and-String/) |
 | **Linked List** | code |
-| **Binary Search** | code |
 | **Binary Tree** | [code](Learn/Binary-Tree/) |
 | **N-ary Tree** | code |
 | **Binary Search Tree** | code |
 | **Trie** | code |
 | **Hash Table** | code |
 
+### Learn Algorithms
+
+| Topic | code |
+| --- | :---: |
+| **Binary Search** | code |
+
 ### Interview
+
 | Topic | code |
 | --- | :---: |
 | **Coding Interview Strategy** | N/A |
@@ -48,10 +54,9 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | **Top Interview Questions - Hard Collections** | code |
 | **Google** | code |
 | **Facebook** | code |
-| **Yelp** | code |
 | **Microsoft** | code |
-| **Bloomberg** | code |
 | **Amazon** | code |
-
+| **Yelp** | code |
+| **Bloomberg** | code |
 
 
