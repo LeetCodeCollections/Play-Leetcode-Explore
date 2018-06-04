@@ -29,7 +29,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 ### Learn
 
 | Topic | code |
-| --- | --- |
+| --- | :---: |
 | **Array and String** | [code](Learn/Array-and-String/) |
 | **Linked List** | code |
 | **Binary Search** | code |
@@ -41,8 +41,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 ### Interview
 | Topic | code |
-| --- | --- |
-| **Coding Interview Strategy** | code |
+| --- | :---: |
+| **Coding Interview Strategy** | N/A |
 | **Top Interview Questions - Easy Collections** | code |
 | **Top Interview Questions - Medium Collections** | code |
 | **Top Interview Questions - Hard Collections** | code |
