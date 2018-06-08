@@ -7,11 +7,12 @@
 
 using namespace std;
 
+#define N 100000
 
 class MyHashSet {
 
 private:
-    set<int> data[100001];
+    set<int> data[N];
 
 public:
     /** Initialize your data structure here. */
@@ -20,16 +21,16 @@ public:
     }
 
     void add(int key) {
-        data[key%10].insert(key);
+        data[key % N].insert(key);
     }
 
     void remove(int key) {
-        data[key%10].erase(key);
+        data[key % N].erase(key);
     }
 
     /** Returns true if this set did not already contain the specified element */
     bool contains(int key) {
-        return data[key%10].find(key) != data[key%10].end();
+        return data[key % N].find(key) != data[key % N].end();
     }
 };
 
