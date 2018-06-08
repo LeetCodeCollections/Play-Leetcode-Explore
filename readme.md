@@ -36,7 +36,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | **N-ary Tree** | code |
 | **Binary Search Tree** | code |
 | **Trie** | code |
-| **Hash Table** | code |
+| **Hash Table** | [code](Learn/Hash-Table/) |
 
 ### Learn Algorithms
 
