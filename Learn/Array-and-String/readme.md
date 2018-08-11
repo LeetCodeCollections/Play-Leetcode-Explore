@@ -17,3 +17,4 @@
 | | [Remove Element](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1151/) | [C++](04-Two-Pointer-Technique/04-Remove-Element/cpp-0027/) | |
 | | [Max Consecutive Ones](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1301/) | [C++](04-Two-Pointer-Technique/05-Max-Consecutive-Ones/cpp-0485/) | |
 | | [Minimum Size Subarray Sum](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1299/) | [C++](04-Two-Pointer-Technique/06-Minimum-Size-Subarray-Sum/cpp-0209/) | [Java](04-Two-Pointer-Technique/06-Minimum-Size-Subarray-Sum/java-0209/src/) |
+| [**Conclusion**](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/) | [Rotate Array](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1182/) | [C++](05-Conclusion/01-Rotate-Array/cpp-0189/)| |
