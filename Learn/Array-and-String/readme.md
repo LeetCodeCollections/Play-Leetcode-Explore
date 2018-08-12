@@ -19,3 +19,4 @@
 | | [Minimum Size Subarray Sum](https://leetcode.com/explore/learn/card/array-and-string/205/array-two-pointer-technique/1299/) | [C++](04-Two-Pointer-Technique/06-Minimum-Size-Subarray-Sum/cpp-0209/) | [Java](04-Two-Pointer-Technique/06-Minimum-Size-Subarray-Sum/java-0209/src/) |
 | [**Conclusion**](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/) | [Rotate Array](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1182/) | [C++](05-Conclusion/01-Rotate-Array/cpp-0189/)| |
 | | [Pascal's Triangle II](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1171/) | [C++](05-Conclusion/02-Pascals-Triangle-II/cpp-0119/)| |
+| | [Reverse Words in a String](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1164/) | [C++](05-Conclusion/03-Reverse-Words-in-a-String/cpp-0151/) | |
