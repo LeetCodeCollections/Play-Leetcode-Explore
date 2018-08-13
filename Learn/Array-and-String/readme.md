@@ -22,3 +22,4 @@
 | | [Reverse Words in a String](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1164/) | [C++](05-Conclusion/03-Reverse-Words-in-a-String/cpp-0151/) | |
 | | [Reverse Words in a String III](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1165/) | [C++](05-Conclusion/04-Reverse-Words-in-a-String-III/cpp-0557/) | |
 | | [Remove Duplicates from Sorted Array](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1173/) | [C++](05-Conclusion/05-Remove-Duplicates-from-Sorted-Array/cpp-0026/) | |
+| | [Move Zeroes](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1174/) | [C++](05-Conclusion/06-Move-Zeroes/cpp-0283/) | [Java](05-Conclusion/06-Move-Zeroes/java-0283/) |
