@@ -20,3 +20,5 @@
 | [**Conclusion**](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/) | [Rotate Array](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1182/) | [C++](05-Conclusion/01-Rotate-Array/cpp-0189/)| |
 | | [Pascal's Triangle II](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1171/) | [C++](05-Conclusion/02-Pascals-Triangle-II/cpp-0119/)| |
 | | [Reverse Words in a String](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1164/) | [C++](05-Conclusion/03-Reverse-Words-in-a-String/cpp-0151/) | |
+| | [Reverse Words in a String III](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1165/) | [C++](05-Conclusion/04-Reverse-Words-in-a-String-III/cpp-0557/) | |
+| | [Remove Duplicates from Sorted Array](https://leetcode.com/explore/learn/card/array-and-string/204/conclusion/1173/) | [C++](05-Conclusion/05-Remove-Duplicates-from-Sorted-Array/cpp-0026/) | |
