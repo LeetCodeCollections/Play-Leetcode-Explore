@@ -8,4 +8,5 @@
 | | [Number of Islands](https://leetcode.com/explore/learn/card/queue-stack/231/practical-application-queue/1374/) | [C++](02-Queue-and-BFS/02-Number-of-Islands/cpp-0200/) | [Java](02-Queue-and-BFS/02-Number-of-Islands/java-0200/src/) |
 | | [Open the Lock](https://leetcode.com/explore/learn/card/queue-stack/231/practical-application-queue/1375/) | [C++](02-Queue-and-BFS/03-Open-the-Lock/cpp-0752/) | |
 | | [Perfect Squares](https://leetcode.com/explore/learn/card/queue-stack/231/practical-application-queue/1371/) | [C++](02-Queue-and-BFS/04-Perfect-Squares/cpp-0279/) | [Java](02-Queue-and-BFS/04-Perfect-Squares/java-0279/src/) |
+| [**Stack: Last-in-first-out Data Structure**](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/) | [Min Stack](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/1360/) | [C++](03-Stack-Last-in-first-out-Data-Structure/01-Min-Stacl/cpp-0155/) | |
 | | | | |
