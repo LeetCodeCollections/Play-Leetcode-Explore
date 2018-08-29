@@ -9,4 +9,5 @@
 | | [Open the Lock](https://leetcode.com/explore/learn/card/queue-stack/231/practical-application-queue/1375/) | [C++](02-Queue-and-BFS/03-Open-the-Lock/cpp-0752/) | |
 | | [Perfect Squares](https://leetcode.com/explore/learn/card/queue-stack/231/practical-application-queue/1371/) | [C++](02-Queue-and-BFS/04-Perfect-Squares/cpp-0279/) | [Java](02-Queue-and-BFS/04-Perfect-Squares/java-0279/src/) |
 | [**Stack: Last-in-first-out Data Structure**](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/) | [Min Stack](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/1360/) | [C++](03-Stack-Last-in-first-out-Data-Structure/01-Min-Stacl/cpp-0155/) | |
+| | [Valid Parentheses](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/1361/) | [C++](03-Stack-Last-in-first-out-Data-Structure/02-Valid-Parentheses/cpp-0020/) | [Java](03-Stack-Last-in-first-out-Data-Structure/02-Valid-Parentheses/java-0020/src/)|
 | | | | |
