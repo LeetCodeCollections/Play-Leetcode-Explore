@@ -15,3 +15,4 @@
 | [**Stack and DFS**](https://leetcode.com/explore/learn/card/queue-stack/232/practical-application-stack/) | [Number of Islands](https://leetcode.com/explore/learn/card/queue-stack/232/practical-application-stack/1380/) | [C++](04-Stack-and-DFS/01-Number-of-Islands/cpp-200/) | |
 | | [Clone Graph](https://leetcode.com/explore/learn/card/queue-stack/232/practical-application-stack/1392/) | [C++](04-Stack-and-DFS/02-Clone-Graph/cpp-0133/) | |
 | | | | |
+| | [Binary Tree Inorder Traversal](https://leetcode.com/explore/learn/card/queue-stack/232/practical-application-stack/1383/) | [C++](04-Stack-and-DFS/04-Binary-Tree-Inorder-Traversal/cpp-0094/) | [Java](04-Stack-and-DFS/04-Binary-Tree-Inorder-Traversal/java-0094/src/) |
