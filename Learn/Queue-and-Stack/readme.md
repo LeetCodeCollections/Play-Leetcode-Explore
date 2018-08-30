@@ -12,4 +12,5 @@
 | | [Valid Parentheses](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/1361/) | [C++](03-Stack-Last-in-first-out-Data-Structure/02-Valid-Parentheses/cpp-0020/) | [Java](03-Stack-Last-in-first-out-Data-Structure/02-Valid-Parentheses/java-0020/src/)|
 | | [Daily Temperatures](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/1363/) | [C++](03-Stack-Last-in-first-out-Data-Structure/03-Daily-Temperatures/cpp-0739/) | |
 | | [Evaluate Reverse Polish Notation](https://leetcode.com/explore/learn/card/queue-stack/230/usage-stack/1394/) | [C++](03-Stack-Last-in-first-out-Data-Structure/04-Evaluate-Reverse-Polish-Notation/cpp-0150/) | |
+| [**Stack and DFS**](https://leetcode.com/explore/learn/card/queue-stack/232/practical-application-stack/) | [Number of Islands](https://leetcode.com/explore/learn/card/queue-stack/232/practical-application-stack/1380/) | [C++](04-Stack-and-DFS/01-Number-of-Islands/cpp-200/) | |
 | | | | |
