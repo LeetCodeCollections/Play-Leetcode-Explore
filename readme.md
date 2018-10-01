@@ -50,36 +50,36 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 ### Learn Data Structures 数据结构模块
 
-| Topic | code |
-| --- | :---: |
-| **Array and String** | [code](Learn/Array-and-String/) |
-| **Queue and Stack** | [code](Learn/Queue-and-Stack/) |
-| **Linked List** | code |
-| **Binary Tree** | [code](Learn/Binary-Tree/) |
-| **N-ary Tree** | code |
-| **Binary Search Tree** | code |
-| **Trie** | code |
-| **Hash Table** | [code](Learn/Hash-Table/) |
+| Topic | code | status |
+| --- | :---: | :---: |
+| **Array and String** | [code](Learn/Array-and-String/) | completed |
+| **Queue and Stack** | [code](Learn/Queue-and-Stack/) | completed |
+| **Linked List** | [code](Learn/Linked-List/) | in progress |
+| **Binary Tree** | [code](Learn/Binary-Tree/) | in progress |
+| **N-ary Tree** | [code](Learn/N-ary-Tree/) | in progress |
+| **Binary Search Tree** | [code](Learn/Binary-Search-Tree/) | in progress |
+| **Trie** | [code](Learn/Trie/) | in progress |
+| **Hash Table** | [code](Learn/Hash-Table/) | in progress |
 
 ### Learn Algorithms 算法模块
 
-| Topic | code |
-| --- | :---: |
-| **Binary Search** | code |
+| Topic | code | status |
+| --- | :---: | :---: |
+| **Binary Search** | [code](Learn/Binary-Search/) | in progress |
 
 ### Interview 备战面试模块
 
-| Topic | code |
-| --- | :---: |
-| **Coding Interview Strategy** | N/A |
-| **Top Interview Questions - Easy Collections** | code |
-| **Top Interview Questions - Medium Collections** | code |
-| **Top Interview Questions - Hard Collections** | code |
-| **Google** | code |
-| **Facebook** | code |
-| **Microsoft** | code |
-| **Amazon** | code |
-| **Yelp** | code |
-| **Bloomberg** | code |
+| Topic | code | status |
+| --- | :---: | :---: |
+| **Coding Interview Strategy** | N/A | not started |
+| **Top Interview Questions - Easy Collections** | code | not started |
+| **Top Interview Questions - Medium Collections** | code | not started |
+| **Top Interview Questions - Hard Collections** | code | not started |
+| **Google** | code | not started |
+| **Facebook** | code | not started |
+| **Microsoft** | code | not started |
+| **Amazon** | code | not started |
+| **Yelp** | code | not started |
+| **Bloomberg** | code | not started |
 
 
