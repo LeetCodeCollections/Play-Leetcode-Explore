@@ -54,32 +54,39 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | --- | :---: | :---: |
 | **Array and String** | [code](Learn/Array-and-String/) | completed |
 | **Queue and Stack** | [code](Learn/Queue-and-Stack/) | completed |
-| **Linked List** | [code](Learn/Linked-List/) | in progress |
-| **Binary Tree** | [code](Learn/Binary-Tree/) | in progress |
-| **N-ary Tree** | [code](Learn/N-ary-Tree/) | in progress |
-| **Binary Search Tree** | [code](Learn/Binary-Search-Tree/) | in progress |
-| **Trie** | [code](Learn/Trie/) | in progress |
-| **Hash Table** | [code](Learn/Hash-Table/) | in progress |
+| **Linked List** | [code](Learn/Linked-List/) | [in progress] |
+| **Hash Table** | [code](Learn/Hash-Table/) | [in progress] |
+| **Binary Tree** | [code](Learn/Binary-Tree/) | [in progress] |
+| **N-ary Tree** | [code](Learn/N-ary-Tree/) | [in progress] |
+| **Binary Search Tree** | [code](Learn/Binary-Search-Tree/) | [in progress] |
+| **Trie** | [code](Learn/Trie/) | [in progress] |
 
 ### Learn Algorithms 算法模块
 
 | Topic | code | status |
 | --- | :---: | :---: |
-| **Binary Search** | [code](Learn/Binary-Search/) | in progress |
+| **Binary Search** | [code](Learn/Binary-Search/) | [in progress] |
 
 ### Interview 备战面试模块
 
 | Topic | code | status |
 | --- | :---: | :---: |
 | **Coding Interview Strategy** | N/A | not started |
+| **Rock the Behavioral Interview** | N/A | not started |
 | **Top Interview Questions - Easy Collections** | code | not started |
 | **Top Interview Questions - Medium Collections** | code | not started |
 | **Top Interview Questions - Hard Collections** | code | not started |
+
+### Company Interview Problems 公司面试真题模块
+
+| Company | code | status |
+| --- | :---: | :---: |
 | **Google** | code | not started |
 | **Facebook** | code | not started |
 | **Microsoft** | code | not started |
 | **Amazon** | code | not started |
 | **Yelp** | code | not started |
 | **Bloomberg** | code | not started |
+| **Tencent 腾讯** | code | not started |
 
 
