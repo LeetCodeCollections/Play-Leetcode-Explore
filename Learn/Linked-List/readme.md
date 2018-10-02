@@ -15,6 +15,6 @@
 | [**Conclusion**](https://leetcode.com/explore/learn/card/linked-list/213/conclusion/) | [Merge Two Sorted Lists](https://leetcode.com/explore/learn/card/linked-list/213/conclusion/1227/) | [C++](05-Conclusion/01-Merge-Two-Sorted-Lists/cpp-0021/) | |
 | | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [C++](05-Conclusion/02-Add-Two-Numbers/cpp-0002/) | |
 | | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/explore/learn/card/linked-list/213/conclusion/1225/) | [C++](05-Conclusion/03-Flatten-a-Multilevel-Doubly-Linked-List/cpp-0430/) | |
-| | | | |
+| | [Insert into a Cyclic Sorted List](https://leetcode.com/explore/learn/card/linked-list/213/conclusion/1226/) | [C++](05-Conclusion/04-Insert-into-a-Cyclic-Sorted-List/cpp-0708/) | |
 | | [Copy List with Random Pointer](https://leetcode.com/explore/learn/card/linked-list/213/conclusion/1229/) | [C++](05-Conclusion/05-Copy-List-with-Random-Pointer/cpp-0138/) | |
 | | [Rotate List](https://leetcode.com/explore/learn/card/linked-list/213/conclusion/1295/) | [C++](05-Conclusion/06-Rotate-List/cpp-0061/) | |
