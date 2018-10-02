@@ -16,3 +16,4 @@
 | | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [C++](05-Conclusion/02-Add-Two-Numbers/cpp-0002/) | |
 | | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/explore/learn/card/linked-list/213/conclusion/1225/) | [C++](05-Conclusion/03-Flatten-a-Multilevel-Doubly-Linked-List/cpp-0430/) | |
 | | | | |
+| | [Rotate List](https://leetcode.com/explore/learn/card/linked-list/213/conclusion/1295/) | [C++](05-Conclusion/06-Rotate-List/cpp-0061/) | |
