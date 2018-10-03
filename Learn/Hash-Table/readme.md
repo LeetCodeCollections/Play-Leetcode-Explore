@@ -17,4 +17,5 @@
 | | [Logger Rate Limiter](https://leetcode.com/explore/learn/card/hash-table/184/comparison-with-other-data-structures/1122/) | [C++](03-Practical-Application-Hash-Map/07-Logger-Rate-Limiter/cpp-0359/) | |
 | [**Practical Application - Design the Key**](https://leetcode.com/explore/learn/card/hash-table/185/hash_table_design_the_key/) | [Group Anagrams](https://leetcode.com/explore/learn/card/hash-table/185/hash_table_design_the_key/1124/) | [C++](04-Practical-Application-Design-the-Key/01-Group-Anagrams/cpp-0049/)| |
 | | [Group Shifted Strings](https://leetcode.com/explore/learn/card/hash-table/185/hash_table_design_the_key/1125/) | [C++](04-Practical-Application-Design-the-Key/02-Group-Shifted-Strings/cpp-0249/) | |
+| | [Valid Sudoku](https://leetcode.com/explore/learn/card/hash-table/185/hash_table_design_the_key/1126/) | [C++](04-Practical-Application-Design-the-Key/03-Valid-Sudoku/cpp-0036/) | |
 | | | | |
