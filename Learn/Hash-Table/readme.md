@@ -19,4 +19,5 @@
 | | [Group Shifted Strings](https://leetcode.com/explore/learn/card/hash-table/185/hash_table_design_the_key/1125/) | [C++](04-Practical-Application-Design-the-Key/02-Group-Shifted-Strings/cpp-0249/) | |
 | | [Valid Sudoku](https://leetcode.com/explore/learn/card/hash-table/185/hash_table_design_the_key/1126/) | [C++](04-Practical-Application-Design-the-Key/03-Valid-Sudoku/cpp-0036/) | |
 | | [Find Duplicate Subtrees](https://leetcode.com/explore/learn/card/hash-table/185/hash_table_design_the_key/1127/) | [C++](04-Practical-Application-Design-the-Key/04-Find-Duplicate-Subtrees/cpp-0652/) | |
+| [**Conclusion**](https://leetcode.com/explore/learn/card/hash-table/187/conclusion-hash-table/) | [Jewels and Stones](https://leetcode.com/explore/learn/card/hash-table/187/conclusion-hash-table/1136/) | [C++](05-Conclusion/01-Jewels-and-Stones/cpp-0771/) | |
 | | | | |
