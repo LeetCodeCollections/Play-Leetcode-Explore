@@ -21,4 +21,5 @@
 | | [Find Duplicate Subtrees](https://leetcode.com/explore/learn/card/hash-table/185/hash_table_design_the_key/1127/) | [C++](04-Practical-Application-Design-the-Key/04-Find-Duplicate-Subtrees/cpp-0652/) | |
 | [**Conclusion**](https://leetcode.com/explore/learn/card/hash-table/187/conclusion-hash-table/) | [Jewels and Stones](https://leetcode.com/explore/learn/card/hash-table/187/conclusion-hash-table/1136/) | [C++](05-Conclusion/01-Jewels-and-Stones/cpp-0771/) | |
 | | [Longest Substring Without Repeating Characters](https://leetcode.com/explore/learn/card/hash-table/187/conclusion-hash-table/1135/) | [C++](05-Conclusion/02-Longest-Substring-Without-Repeating-Characters/cpp-0003/) | [Java](05-Conclusion/02-Longest-Substring-Without-Repeating-Characters/java-0003/) |
+| | [Two-Sum-III-Data-structure-design](https://leetcode.com/explore/learn/card/hash-table/187/conclusion-hash-table/1179/) | [C++](05-Conclusion/03-Two-Sum-III-Data-structure-design/cpp-0170/) | |
 | | | | |
