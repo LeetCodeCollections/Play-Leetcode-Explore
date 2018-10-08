@@ -12,5 +12,7 @@
 | | [Count Univalue Subtrees](https://leetcode.com/explore/learn/card/data-structure-tree/17/solve-problems-recursively/538/) | [C++](02-Solve-Problems-Recursively/04-Count-Univalue-Subtrees/cpp-0250/) | |
 | [**Conclusion**](https://leetcode.com/explore/learn/card/data-structure-tree/133/conclusion/) | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/explore/learn/card/data-structure-tree/133/conclusion/942/) | [C++](03-Conclusion/01-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/cpp-0106/) | |
 | | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/explore/learn/card/data-structure-tree/133/conclusion/943/) | [C++](03-Conclusion/02-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/cpp-0105/) | |
+| | [Populating Next Right Pointers in Each Node](https://leetcode.com/explore/learn/card/data-structure-tree/133/conclusion/994/) | [C++](03-Conclusion/03-Populating-Next-Right-Pointers-in-Each-Node/cpp-0116/) | |
+| | | | |
 
 
