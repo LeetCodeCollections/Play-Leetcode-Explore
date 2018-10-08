@@ -24,4 +24,5 @@
 | | [Two-Sum-III-Data-structure-design](https://leetcode.com/explore/learn/card/hash-table/187/conclusion-hash-table/1179/) | [C++](05-Conclusion/03-Two-Sum-III-Data-structure-design/cpp-0170/) | |
 | | [4Sum II](https://leetcode.com/explore/learn/card/hash-table/187/conclusion-hash-table/1134/) | [C++](05-Conclusion/04-4Sum-II/cpp-0454/) | [Java](05-Conclusion/04-4Sum-II/java-0454/) |
 | | [Top K Frequent Elements](https://leetcode.com/explore/learn/card/hash-table/187/conclusion-hash-table/1133/) | [C++](05-Conclusion/05-Top-K-Frequent-Elements/cpp-0347/) | [Java](05-Conclusion/05-Top-K-Frequent-Elements/java-0347/) |
+| | [Unique Word Abbreviation](https://leetcode.com/explore/learn/card/hash-table/187/conclusion-hash-table/1137/) | [C++](05-Conclusion/06-Unique-Word-Abbreviation/cpp-0288/) | |
 | | | | |
