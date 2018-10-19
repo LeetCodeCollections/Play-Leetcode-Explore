@@ -56,7 +56,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | **Queue and Stack** | [code](Learn/Queue-and-Stack/) | completed |
 | **Linked List** | [code](Learn/Linked-List/) | completed |
 | **Hash Table** | [code](Learn/Hash-Table/) | completed |
-| **Binary Tree** | [code](Learn/Binary-Tree/) | [in progress] |
+| **Binary Tree** | [code](Learn/Binary-Tree/) | completed |
 | **N-ary Tree** | [code](Learn/N-ary-Tree/) | [in progress] |
 | **Binary Search Tree** | [code](Learn/Binary-Search-Tree/) | [in progress] |
 | **Trie** | [code](Learn/Trie/) | [in progress] |
