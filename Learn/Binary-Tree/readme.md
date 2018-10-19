@@ -14,6 +14,6 @@
 | | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/explore/learn/card/data-structure-tree/133/conclusion/943/) | [C++](03-Conclusion/02-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/cpp-0105/) | |
 | | [Populating Next Right Pointers in Each Node](https://leetcode.com/explore/learn/card/data-structure-tree/133/conclusion/994/) | [C++](03-Conclusion/03-Populating-Next-Right-Pointers-in-Each-Node/cpp-0116/) | |
 | | [Populating Next Right Pointers in Each Node II](https://leetcode.com/explore/learn/card/data-structure-tree/133/conclusion/1016/) | [C++](04-Populating-Next-Right-Pointers-in-Each-Node-II/cpp-0117/) | |
-| | | | |
+| | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/133/conclusion/932/) | [C++](05-Lowest-Common-Ancestor-of-a-Binary-Tree/cpp-0236/) | |
 | | | | |
 
