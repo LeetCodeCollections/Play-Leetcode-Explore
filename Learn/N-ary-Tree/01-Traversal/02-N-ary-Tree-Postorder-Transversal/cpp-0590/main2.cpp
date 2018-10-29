@@ -1,4 +1,4 @@
-/// Source : https://leetcode.com/problems/n-ary-tree-preorder-traversal/
+/// Source : https://leetcode.com/problems/n-ary-tree-postorder-traversal/
 /// Author : liuyubobobo
 /// Time   : 2018-10-29
 
@@ -23,14 +23,14 @@ public:
     }
 };
 
-
 /// Non-Recursion
 /// Using stack
+///
 /// Time Complexity: O(n)
 /// Space Complexity: O(h)
 class Solution {
 public:
-    vector<int> preorder(Node* root) {
+    vector<int> postorder(Node* root) {
 
         vector<int> res;
         if(!root)
@@ -41,12 +41,11 @@ public:
         while(!stack.empty()){
             Node* cur = stack.top();
             stack.pop();
-
             res.push_back(cur->val);
-            for(vector<Node*>::reverse_iterator iter = cur->children.rbegin();
-                    iter != cur->children.rend(); iter ++)
-                stack.push(*iter);
+            for(Node* next: cur->children)
+                stack.push(next);
         }
+        reverse(res.begin(), res.end());
         return res;
     }
 };
