@@ -41,8 +41,11 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 * [**《玩转数据结构》课程**](https://coding.imooc.com/class/207.html), 代码仓: [Play-with-Data-Structures](https://github.com/liuyubobobo/Play-with-Data-Structures)
 
+* [**《玩转图论算法》课程**](https://coding.imooc.com/class/370.html), 代码仓: [Play-with-Graph-Algorithms](https://github.com/liuyubobobo/Play-with-Graph-Algorithms)
+
 * **LeetCode 题解代码仓**：[Play Leetcode](https://github.com/liuyubobobo/Play-Leetcode) （注：以C++实现为主）
     
+* **LeetCode Database 题解代码仓**：[Play Leetcode Database](https://github.com/liuyubobobo/Play-Leetcode-Database/)
 
 ## Catelogue 本代码仓目录
 
